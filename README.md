@@ -68,7 +68,6 @@ A boilerplate used to create a basic email using html tables. The file index.htm
 
 </style>
 ```
-
 <h3>Getting Started</h3>
 <ul>
 <li>The main email container should not exceed 650px. This will allow the email to be viewed properly across all email clients.  </li>
